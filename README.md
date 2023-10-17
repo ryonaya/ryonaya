@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryonaya
 - 👀 I’m interested in CS and AD
 - 🌱 I’m currently learning Unity
-- 📫 How to reach me : ryonadaisuki2@gmail.com
+- 📫 How to reach me : meh
 
 <!---
 ryonaya/ryonaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
