@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryonaya
 - 👀 I’m interested in CS and AD
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently planting trees to save our mother Earth
 - 📫 How to reach me : meh
 
 <!---
